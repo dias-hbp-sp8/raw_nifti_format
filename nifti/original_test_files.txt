@@ -1,0 +1,18 @@
+INT16_96-96-80.nii.gz -> Example NIFTI files/ds116/sub-02/anat/sub-02_inplaneT2.nii.gz
+FLOAT32_256-256-160.nii.gz -> Example NIFTI files/ds116/sub-02/anat/sub-02_T1w.nii.gz
+INT16_64-64-32_4d.nii.gz -> Example NIFTI files/ds116/sub-02/anat/sub-02_task-auditoryoddballwithbuttonresponsetotargetstimuli_run-01_bold.nii
+UINT8_240-256-176.nii -> Example NIFTI files/niftis/c1s2013-05-29_12-07-121604-00001-00176-1.nii
+UINT8_240-256-160.nii -> Example NIFTI files/niftis/c1S0057817_T1.nii
+UINT16_240-256-176.nii -> Example NIFTI files/niftis/s2013-05-29_12-07-121604-00001-00176-1.nii
+INT16_240-256-160.nii -> Example NIFTI files/niftis/S0057817_T1.nii
+FLOAT32_121-145-121_5d.nii -> Example NIFTI files/niftis/u_rc1S0057817_T1_Template.nii
+
+
+FLOAT32_121-145-121_5d.nii
+FLOAT32_256-256-160.nii.gz
+INT16_64-64-32_4d.nii.gz
+INT16_96-96-80.nii.gz
+INT16_240-256-160.nii
+UINT8_240-256-160_le.nii
+UINT8_240-256-176.nii
+UINT16_240-256-176.nii
